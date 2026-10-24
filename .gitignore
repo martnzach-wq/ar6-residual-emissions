@@ -1,0 +1,14 @@
+# AR6 data: licence restricts redistribution, so raw and extracted data stay local
+data/raw/*
+data/processed/*
+!data/raw/README.md
+!data/processed/.gitkeep
+*.zip
+/*.csv
+/*.xlsx
+/1668*/
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+cache/
+.env

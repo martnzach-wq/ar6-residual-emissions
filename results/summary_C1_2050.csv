@@ -1,0 +1,41 @@
+group,quantity,n,p25,median,p75
+All C1,Energy supply,87,0.83,1.29,1.59
+All C1,Industry,90,1.44,1.94,3.05
+All C1,Transport,85,2.36,3.1,4.57
+All C1,Buildings,79,0.37,0.59,0.87
+All C1,Gross residual (4 sectors),68,5.81,7.33,9.2
+All C1,AFOLU (net),97,-2.92,-2.57,-0.07
+All C1,BECCS,95,1.93,4.17,5.45
+All C1,DACCS,38,0.0,0.1,0.99
+All C1,Land-based removal,64,0.32,3.44,4.09
+All C1,Enhanced weathering,32,0.0,0.0,0.0
+MESSAGEix-GLOBIOM,Energy supply,11,0.61,0.75,0.76
+MESSAGEix-GLOBIOM,Industry,16,1.15,1.35,1.55
+MESSAGEix-GLOBIOM,Transport,15,2.24,2.61,3.03
+MESSAGEix-GLOBIOM,Buildings,16,0.14,0.21,0.33
+MESSAGEix-GLOBIOM,Gross residual (4 sectors),10,4.0,5.57,5.75
+MESSAGEix-GLOBIOM,AFOLU (net),16,-2.68,-2.66,-2.63
+MESSAGEix-GLOBIOM,BECCS,16,0.95,1.0,1.8
+MESSAGEix-GLOBIOM,DACCS,0,,,
+MESSAGEix-GLOBIOM,Land-based removal,16,3.74,3.79,3.82
+MESSAGEix-GLOBIOM,Enhanced weathering,0,,,
+REMIND-MAgPIE,Energy supply,28,0.9,1.31,1.57
+REMIND-MAgPIE,Industry,26,1.54,2.07,2.51
+REMIND-MAgPIE,Transport,27,3.01,3.64,4.45
+REMIND-MAgPIE,Buildings,26,0.39,0.58,0.65
+REMIND-MAgPIE,Gross residual (4 sectors),26,6.0,7.18,9.02
+REMIND-MAgPIE,AFOLU (net),28,-0.18,0.08,0.25
+REMIND-MAgPIE,BECCS,28,3.6,4.09,5.5
+REMIND-MAgPIE,DACCS,17,0.0,0.02,0.35
+REMIND-MAgPIE,Land-based removal,24,0.23,0.24,0.53
+REMIND-MAgPIE,Enhanced weathering,17,0.0,0.0,0.0
+IMAGE,Energy supply,7,1.26,1.26,1.33
+IMAGE,Industry,7,3.58,3.87,3.9
+IMAGE,Transport,7,1.22,1.66,2.08
+IMAGE,Buildings,7,0.66,0.73,1.03
+IMAGE,Gross residual (4 sectors),7,6.96,7.82,8.16
+IMAGE,AFOLU (net),7,-4.21,-3.92,-2.17
+IMAGE,BECCS,7,4.79,5.19,5.54
+IMAGE,DACCS,0,,,
+IMAGE,Land-based removal,7,4.09,4.09,6.28
+IMAGE,Enhanced weathering,0,,,
